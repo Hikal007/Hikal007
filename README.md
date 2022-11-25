@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
-  <h2>If you need to reprint Please follow CC BY-NC-SA 4.0 agreement.</h2>
+  <h2>If you need to reprint,Please follow CC BY-NC-SA 4.0 agreement.</h2>
   <p>You can find me at these ways</p>
   
   [![](https://img.shields.io/youtube/channel/subscribers/UCOzgKl-dLtTtY7bBxt7I_eA?label=YouTube&style=social)](https://www.youtube.com/channel/UCOzgKl-dLtTtY7bBxt7I_eA)
