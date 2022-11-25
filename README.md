@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
   <h2>If you need to reprint,Please follow CC BY-NC-SA 4.0 agreement.</h2>
-  <p>You can follow me at these ways</p>
+  <p>You can follow me at these ways:</p>
   
   [![](https://img.shields.io/badge/youtube--white?style=social&logo=youtube)](https://www.youtube.com/channel/UCOzgKl-dLtTtY7bBxt7I_eA)
   [![](https://img.shields.io/badge/Discord--white?style=social&logo=Discord)](https://discord.com/channels/1045612079471661086/)
