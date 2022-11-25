@@ -1,7 +1,7 @@
 ## 如需转载 请遵守CC BY-NC-SA 4.0协议
 ## If you need to reprint Please follow CC BY-NC-SA 4.0 agreement
 <div align="center">
-  <h3>What's up! 👋</h3>
+  <h3>Welcome to my GitHub profile!</h3>
   <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
   <p>I do some <b>🎵 Music</b> too, check it out <a href="https://soundcloud.com/nkeff">here</a>
   
