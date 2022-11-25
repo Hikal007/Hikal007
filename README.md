@@ -1,5 +1,4 @@
 ## 如需转载 请遵守CC BY-NC-SA 4.0协议
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
 <!--
 **Hikal007/Hikal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
