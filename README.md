@@ -1,8 +1,7 @@
 ## 如需转载 请遵守CC BY-NC-SA 4.0协议
-## If you need to reprint Please follow CC BY-NC-SA 4.0 agreement
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
-  <p>Welcome to my profile, most of my work is private. But I have some public projects here.</p>
+  <p>If you need to reprint Please follow CC BY-NC-SA 4.0 agreement.</p>
   <p>I do some <b>🎵 Music</b> too, check it out <a href="https://soundcloud.com/nkeff">here</a>
   
   [![](https://img.shields.io/badge/-Manolo%20Edge-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/manolo-edge-584856116/)
