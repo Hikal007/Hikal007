@@ -21,6 +21,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/minecraft/minecraft.png"></code>
-  <h5>(Yes,Minecraft is a language too.lol)</h5>
+  <h5>(是的，mcfunction 也是一种语言。哈哈)</h5>
 
 </div>
