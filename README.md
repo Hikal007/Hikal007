@@ -1,6 +1,6 @@
 <div align="center">
   <h3>欢迎来到 Hikal007 的 GitHub 仓库!</h3>
-  <h2>如果您需要搬运或二创，请遵守 CC BY-NC-SA 4.0 并标明作者!</h2>
+  <h2>如果您需要搬运或二创，请遵守 MIT License 并标明原作者!</h2>
   <p>您可以通过以下链接找到我</p>
   
   [![](https://img.shields.io/badge/Github--white?style=social&logo=github)](https://github.com/Hikal007)
