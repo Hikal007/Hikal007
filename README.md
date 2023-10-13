@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>Welcome to my GitHub profile!</h3>
-  <h2>If you need to reprint,Please follow CC BY-NC-SA 4.0 agreement.</h2>
-  <p>You can follow me at these ways:</p>
+  <h3>欢迎来到Hikal007的 GitHub 仓库!</h3>
+  <h2>如果您需要搬运或二创，请遵守 CC BY-NC-SA 4.0 并标明作者!</h2>
+  <p>您可以通过以下链接找到我:</p>
   
   [![](https://img.shields.io/badge/Github--white?style=social&logo=github)](https://github.com/Hikal007)
   [![](https://img.shields.io/badge/youtube--white?style=social&logo=youtube)](https://www.youtube.com/channel/UCOzgKl-dLtTtY7bBxt7I_eA)
