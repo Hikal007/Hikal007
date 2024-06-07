@@ -5,7 +5,7 @@
   
   [![](https://img.shields.io/badge/Github--white?style=social&logo=github)](https://github.com/Hikal007)
   [![](https://img.shields.io/badge/youtube--white?style=social&logo=youtube)](https://www.youtube.com/channel/UCOzgKl-dLtTtY7bBxt7I_eA)
-  [![](https://img.shields.io/badge/Discord--white?style=social&logo=Discord)](https://discord.com/channels/1045306020165074944)
+  [![](https://img.shields.io/badge/Discord--white?style=social&logo=Discord)](https://discord.com/channels/1045612079471661086)
   [![](https://img.shields.io/badge/Bilibili--white?style=social&logo=bilibili)](https://space.bilibili.com/225599037)
   [![](https://img.shields.io/badge/KOOK--white?style=social&logo=kook)](https://kook.top/89kkeV)
 
